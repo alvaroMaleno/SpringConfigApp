@@ -8,8 +8,8 @@ Template app to store and consume cyphered configs from github
 
 https://github.com/alvaroMaleno/spring-config-client
 
-[values]("https://github.com/alvaroMaleno/spring-config-server-values")
+https://github.com/alvaroMaleno/config-server-spring-template
 
-[server]("https://github.com/alvaroMaleno/config-server-spring-template")
+https://github.com/alvaroMaleno/spring-config-server-dev-values
 
-[client]("https://github.com/alvaroMaleno/spring-config-client")
+https://github.com/alvaroMaleno/spring-config-server-values
